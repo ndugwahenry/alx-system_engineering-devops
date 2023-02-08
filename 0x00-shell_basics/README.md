@@ -8,3 +8,4 @@
 - 6-firstdirectort creates a directi=ory in the tmp directory
 - 7-movethat file moves a file betty to tmp/my_first_directory
 - 8-firstdelt deletes file betty from tmp/my_first_directory
+- 9-firstdirdeletion deletes my_first_directory
