@@ -9,3 +9,4 @@
 - 7-movethat file moves a file betty to tmp/my_first_directory
 - 8-firstdelt deletes file betty from tmp/my_first_directory
 - 9-firstdirdeletion deletes my_first_directory
+- 10-back take you bsck to the previous working directory
