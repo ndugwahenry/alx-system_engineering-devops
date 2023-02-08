@@ -12,3 +12,4 @@
 - 10-back take you bsck to the previous working directory
 - 11-list lists files in the current directory and /boot
 - 12-file_type tells the file type in tmp directory
+- 13-symbolic_link creates soft link to ls in bin
