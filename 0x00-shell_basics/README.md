@@ -11,3 +11,4 @@
 - 9-firstdirdeletion deletes my_first_directory
 - 10-back take you bsck to the previous working directory
 - 11-list lists files in the current directory and /boot
+- 12-file_type tells the file type in tmp directory
