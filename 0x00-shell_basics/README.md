@@ -10,3 +10,4 @@
 - 8-firstdelt deletes file betty from tmp/my_first_directory
 - 9-firstdirdeletion deletes my_first_directory
 - 10-back take you bsck to the previous working directory
+- 11-list lists files in the current directory and /boot
