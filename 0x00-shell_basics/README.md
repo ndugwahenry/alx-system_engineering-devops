@@ -4,3 +4,4 @@
 - 2-bring_me_home takes you to home directory
 - 3-listfiles makes a long list of the working directory
 - 4-listmorefiles makes a list including hidden files
+- 4-listfilesdigitonry
