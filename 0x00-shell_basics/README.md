@@ -4,4 +4,5 @@
 - 2-bring_me_home takes you to home directory
 - 3-listfiles makes a long list of the working directory
 - 4-listmorefiles makes a list including hidden files
-- 4-listfilesdigitonry
+- 5-listfilesdigitonly prits long list with id and user as digits
+- 6-firstdirectort creates a directi=ory in the tmp directory
